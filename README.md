@@ -54,16 +54,12 @@ Aqui estão os 8 indicadores que farão parte da nossa análise:
 * Indicador 8 - Taxa Mensal de Retenção de Clientes
 
 
-**Objetivo:** Em resumo, neste projeto, iremos construir um alguns índices de performace utilizaremos a linguagem R e o dataset com alguns dados fictício de uma empressa de rede de varejo, dados de 1ª de dezembro de 2010 à 09 de Dezembro de 2011: 
-
-* https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection/data
+**Objetivo:** Em resumo, neste projeto, iremos construir um alguns índices de performace utilizaremos a linguagem R e o dataset com alguns dados fictício de uma empressa de rede de varejo, dados de 1ª de dezembro de 2010 à 09 de Dezembro de 2011.
 
 Para visualizar a análise completa feita neste projeto, acesse este link:
 
 * https://franklin390.github.io/Project_01_Talking_Data_AdTracking_Fraud_Detection_Challenge/
 
 **Nota:** Para visualizar outros projetos realizados e portifólios:
-* www.rodolfoterra.com
-
-![Project_KPIs](https://github.com/rodolffoterra/Project_KPIs/blob/main/logo.png)
+* www.rodolfoterra.com        ![Rodolfo Terra](https://github.com/rodolffoterra/Project_KPIs/blob/main/logo.png)
 

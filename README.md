@@ -65,5 +65,5 @@ Para visualizar a análise completa feita neste projeto, acesse este link:
 **Nota:** Para visualizar outros projetos realizados e portifólios:
 * www.rodolfoterra.com
 
-![Project_KPIs](https://github.com/rodolffoterra/Project_KPIs/blob/main/logo.png.png)
+![Project_KPIs](https://github.com/rodolffoterra/Project_KPIs/blob/main/logo.png)
 

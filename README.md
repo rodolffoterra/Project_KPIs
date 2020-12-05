@@ -61,6 +61,7 @@ Para visualizar a análise completa feita neste projeto, acesse este link:
 * https://franklin390.github.io/Project_01_Talking_Data_AdTracking_Fraud_Detection_Challenge/
 
 **Nota:** Para visualizar outros projetos realizados e portifólios:
-* www.rodolfoterra.com        
-                                                                                               ![Rodolfo Terra](https://github.com/rodolffoterra/Project_KPIs/blob/main/logo.png)
+* www.rodolfoterra.com    
+
+<p style="text-align: right;">![Rodolfo Terra](https://github.com/rodolffoterra/Project_KPIs/blob/main/logo.png)</p>
 

@@ -58,7 +58,7 @@ Aqui estão os 8 indicadores que farão parte da nossa análise:
 
 Para visualizar a análise completa feita neste projeto, acesse este link:
 
-* 
+* https://github.com/rodolffoterra/Project_KPIs/blob/main/Project_KPIs.ipynb
 
 **Nota:** Para visualizar outros projetos realizados e portifólios:
 

@@ -64,4 +64,6 @@ Para visualizar a análise completa feita neste projeto, acesse este link:
 
 * www.rodolfoterra.com    
 
- ![Rodolfo Terra](https://github.com/rodolffoterra/Project_KPIs/blob/main/logo.png)
+
+ ![Ciência de Dados](https://raw.githubusercontent.com/rodolffoterra/Project_KPIs/main/imagem/logo.png)
+

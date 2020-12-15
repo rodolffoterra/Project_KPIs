@@ -37,15 +37,15 @@ Nosso trabalho é calcular, analisar e interpretar 8 indicadores chave de perfor
 Os indicadores foram definidos pela área de planejamento estratégico da empresa que precisa acompanhar a evolução das vendas e a efetividade das campanhas de Marketing ao longo do tempo!
 Aqui estão os 8 indicadores que farão parte da nossa análise:
 
-* Indicador 1 – Faturamento Mensal
+* Indicador 1 – Quantidade de Produtos Vendidos
 
-* Indicador 2 - Taxa Percentual de Crescimento Mensal
+* Indicador 2 – Faturamento Mensal
 
-* Indicador 3 - Clientes Ativos Por Mês em um País (Brasil)
+* Indicador 3 – Faturamento médio Mensal (Brasil)
 
-* Indicador 4 - Total de Itens Comprados Por Mês em um País (Brasil)
+* Indicador 4 - Taxa Percentual de Crescimento Mensal
 
-* Indicador 5 - Faturamento Médio Mensal em um País (Brasil)
+* Indicador 5 - Clientes Ativos Por Mês em um País (Brasil)
 
 * Indicador 6 - Diferença de Faturamento ao Longo do Tempo Entre Clientes Novos e Antigos
 
@@ -54,7 +54,7 @@ Aqui estão os 8 indicadores que farão parte da nossa análise:
 * Indicador 8 - Taxa Mensal de Retenção de Clientes
 
 
-**Objetivo:** Em resumo, neste projeto, iremos construir um alguns índices de performace utilizaremos a linguagem R e o dataset com alguns dados fictício de uma empressa de rede de varejo, dados de 1ª de dezembro de 2010 à 09 de Dezembro de 2011.
+**Objetivo:** Em resumo, neste projeto, iremos construir alguns índices de performace utilizaremos a linguagem R e o dataset com alguns dados fictício de uma empresa de rede de varejo, dados de 1ª de dezembro de 2010 à 09 de Dezembro de 2011.
 
 Para visualizar a análise completa feita neste projeto, acesse este link:
 
